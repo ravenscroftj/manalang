@@ -13,7 +13,7 @@ E.g [3, 7, 2]
 """
 import random
 
-from athena.manalang import ManaLangTok, ManaLangException
+from manalang import ManaLangTok, ManaLangException
 
 class DiceRollException(ManaLangException):
     pass

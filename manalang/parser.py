@@ -7,8 +7,8 @@ This module contains ManaLang parsing utilities
 import re
 import logging
 
-from athena.manalang import *
-from athena.manalang.dice import DiceRollExpression
+from manalang import *
+from manalang.dice import DiceRollExpression
 
 
 #----------------------------------------------------------------------------
